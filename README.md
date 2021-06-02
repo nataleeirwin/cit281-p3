@@ -21,4 +21,4 @@ Source code files can be found on GitHub at [this](https://github.com/nataleeirw
 
 ## Here is an example of code from this project
 
-![Screenshot of p2-expressions.js](https://github.com/nataleeirwin/cit281-p2/blob/main/p2%20files/example%20of%20code%20for%20p2.png)
+![Screenshot of p3-module.js](https://github.com/nataleeirwin/cit281-p3/blob/main/p3%20files/example%20of%20p3%20code.png)
