@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Project 3
 
-You can use the [editor on GitHub](https://github.com/nataleeirwin/cit281-p3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project helped gain experience interpreting functional descriptions and specifications to complete an assignment, breaking a project into manageable components, and writing and executing non-web server Node.js JavaScript code using VSCode.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This also involved creating and using code modules, refactoring using modern JavaScript syntax, and using Fastify with the GET verb, routes, and query parameters.
 
-### Markdown
+Source code files can be found on GitHub at [this](https://github.com/nataleeirwin/cit281-p3) link.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Elements
 
-```markdown
-Syntax highlighted code block
+- Create project files
+- Initialize as git repo
+- Create and test code module functions
+- Create index.html file
+- Initialize project folder as a Node.js folder, and install Fastify
+- Update web server code to import Fastify and fs packages, and coinCount function
+- Add / route with GET verb, and web server listen
+- Add /coin route with GET verb
+- Add /coins route with GET verb
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Here is an example of code from this project
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nataleeirwin/cit281-p3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Screenshot of p3-module.js](https://github.com/nataleeirwin/cit281-p3/blob/main/p3%20files/example%20of%20p3%20code.png)
