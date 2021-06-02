@@ -4,7 +4,6 @@ This project helped gain experience interpreting functional descriptions and spe
 
 This also involved creating and using code modules, refactoring using modern JavaScript syntax, and using Fastify with the GET verb, routes, and query parameters.
 
-Source code files can be found on GitHub at [this](https://github.com/nataleeirwin/cit281-p3) link.
 
 ### Elements
 
